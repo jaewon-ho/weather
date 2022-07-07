@@ -25,7 +25,10 @@
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
     "@nestjs/platform-express": "^8.0.0",
+    "aws-sdk": "^2.1169.0",
     "dotenv": "^16.0.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0"
